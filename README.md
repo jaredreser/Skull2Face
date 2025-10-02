@@ -4,7 +4,7 @@ AI for reconstructing plausible faces from skulls. This is discussed here as per
 
 This repository provides a toy implementation of the concept described here: (https://www.observedimpulse.com/2025/09/skull-to-face-using-ai-to-recreate-lost_9.html?m=1).
 
-The long-term vision is to develop machine learning models that take 3D skull geometry as input and generate plausible face reconstructions while explicitly representing uncertainty. This can support research in paleoanthropology, forensic science, and evolutionary biology.
+The long-term vision is to develop machine learning models that take 3D skull geometry as input and generate plausible face reconstructions while explicitly representing uncertainty. This can support research in paleoanthropology, forensic science, and evolutionary biology.Contributions, ideas, and discussions are welcome! Open an issue or submit a pull request if you’d like to collaborate.
 
 Right now, this repo includes a **simplified PyTorch demo** that illustrates the basic pipeline structure. Here is a fuller description:
 
