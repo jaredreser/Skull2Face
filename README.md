@@ -1,6 +1,6 @@
 # Skull2Face
 
-AI for reconstructing plausible faces from skulls. 
+AI for reconstructing plausible faces from skulls. This is discussed here as pertaining to fossil human skulls but could generalize to any extinct animal or deceased human whose skull is available. 
 
 This repository provides a toy implementation of the concept described here: (https://www.observedimpulse.com/2025/09/skull-to-face-using-ai-to-recreate-lost_9.html?m=1).
 
